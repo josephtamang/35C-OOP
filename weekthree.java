@@ -5,7 +5,7 @@ public class weekthree {
         Scanner scan = new Scanner(System.in);
 
 
-        /* 1. Write a JAVA program to find the maximum between three numbers. */
+        /* 1. Write a JAVA program to find the maximum between three numbers.. */
 
         System.out.println("Enter you number: ");
         int num1 = scan.nextInt();
