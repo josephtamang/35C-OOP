@@ -180,7 +180,7 @@ public class weektwo {
          * and the total percentage secured. And use the following conditions
          * to generate the final result;
          * a. If equal to or more than 70 -> First Class
-           b. If more than 59 -> Upper Second Class
+           b. If more than 59 -> Upper Second Classs
            c. If more than 49 -> Second class
            d. If more than 39 -> Third class and if below than 40 the result is fail. 
            Hint: Use ternary operator
